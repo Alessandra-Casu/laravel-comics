@@ -6,8 +6,10 @@
         <title>Laravel</title>
         @vite('resources/js/app.js')
     </head>
-    <body >
-        <h1>Ciao da vite</h1>
-        {{-- <img src="{{Vite::asset('resources/img/jumbotron.png')}}" alt=""> --}}
+    <body>
+        @include('partials.header')
+        @include('partials.products')
+        @include('partials.footer')
+        {{-- <img src="{{ Vite::asset('resources/img/picsum30.jpg') }}" alt=""> --}}
     </body>
 </html>
