@@ -4,26 +4,26 @@
         <ul class="blu_nav">
           <li>
             <img
-              src="{{ Vite::asset('resources/images/buy-comics-digital-comics.png') }}"
+              src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}"
               alt="#"
             />DIGITAL COMICS
           </li>
           <li>
-            <img src="{{ Vite::asset('resources/images/buy-comics-merchandise.png') }}" alt="#" />DC
+            <img src="{{ Vite::asset('resources/img/buy-comics-merchandise.png') }}" alt="#" />DC
             MERCHANDISE
           </li>
           <li>
             <img
-              src="{{ Vite::asset('resources/images/buy-comics-subscriptions.png') }}"
+              src="{{ Vite::asset('resources/img/buy-comics-subscriptions.png') }}"
               alt="#"
             />SUBSCRIPTION
           </li>
           <li>
-            <img src="{{ Vite::asset('resources/images/buy-comics-shop-locator.png') }}" alt="#" />COMIC
+            <img src="{{ Vite::asset('resources/img/buy-comics-shop-locator.png') }}" alt="#" />COMIC
             SHOP LOCATOR
           </li>
           <li>
-            <img src="{{ Vite::asset('resources/images/buy-dc-power-visa.svg') }}" alt="#" />DC POWER
+            <img src="{{ Vite::asset('resources/img/buy-dc-power-visa.svg') }}" alt="#" />DC POWER
             VISA
           </li>
         </ul>
@@ -71,7 +71,7 @@
           <li><a href="#">DC Power Visa</a></li>
         </ul>
 
-        <img src="{{ Vite::asset('resources/images/dc-logo-bg.png') }}" alt="logo-bg" />
+        <img src="{{ Vite::asset('resources/img/dc-logo-bg.png') }}" alt="logo-bg" />
       </div>
     </div>
 
@@ -89,27 +89,27 @@
               </li>
               <li>
                 <a href="#"
-                  ><img src="{{ Vite::asset('resources/images/footer-facebook.png') }}" alt="icon"
+                  ><img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt="icon"
                 /></a>
               </li>
               <li>
                 <a href="#"
-                  ><img src="{{ Vite::asset('resources/images/footer-twitter.png') }}" alt="icon"
+                  ><img src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt="icon"
                 /></a>
               </li>
               <li>
                 <a href="#"
-                  ><img src="{{ Vite::asset('resources/images/footer-youtube.png') }}" alt="icon"
+                  ><img src="{{ Vite::asset('resources/img/footer-youtube.png') }}" alt="icon"
                 /></a>
               </li>
               <li>
                 <a href="#"
-                  ><img src="{{ Vite::asset('resources/images/footer-pinterest.png') }}" alt="icon"
+                  ><img src="{{ Vite::asset('resources/img/footer-pinterest.png') }}" alt="icon"
                 /></a>
               </li>
               <li>
                 <a href="#"
-                  ><img src="{{ Vite::asset('resources/images/footer-periscope.png') }}" alt="icon"
+                  ><img src="{{ Vite::asset('resources/img/footer-periscope.png') }}" alt="icon"
                 /></a>
               </li>
             </ul>
